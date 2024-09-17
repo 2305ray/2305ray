@@ -19,7 +19,7 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
 <!-- GithubStats -->
 <div align="center">
   
-  ### ✨ status do Github 
+  ### ✨ Status do Github 
   
 </div>
 
