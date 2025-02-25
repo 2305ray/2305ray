@@ -5,7 +5,7 @@
 </div>
 
     
-Sou Rayssa, uma paulista de 18 anos com uma paixão intensa por natureza, cultura e arte. Estou em busca de transformar essas paixões em projetos que possam causar um impacto positivo, unindo natureza, arte e tecnologia para beneficiar pessoas e ecossistemas.
+Sou Rayssa, uma paulista de 19 anos com uma paixão intensa por natureza, cultura e arte. Estou em busca de transformar essas paixões em projetos que possam causar um impacto positivo, unindo natureza, arte e tecnologia para beneficiar pessoas e ecossistemas.
 
 Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulhando no mundo do HTML, CSS e JavaScript. Estou animada para aprender e crescer na área, e mal posso esperar para ver onde essa aventura me levará!
 
