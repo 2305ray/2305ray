@@ -100,7 +100,7 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40">
 </td>
 
-## 🖥️ Projetos em Destaque  
+## 🖥️ Projetos em Destaque na área da bioinformática
 
 ### 🌿 Projeto BioTech  
 📌 Uma aplicação que integra análise biológica com tecnologia.  
