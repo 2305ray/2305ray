@@ -105,18 +105,18 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
 
 
 ##
-<div align="center>
-### ✨ Status do GitHub
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/2305ray/github-readme-stats">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2305ray&line_height=25&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFA500&hide=html,css&bg_color=FFFAF0&text_color=9ACD32&border_radius=3&border_color=561760&count_private=true" 
-           alt="Most Used Languages" height="150">
-    </a>
+<div style="text-align: center;">
+  <h3 align="center">✨ Status do GitHub</h3>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <a href="https://github.com/2305ray/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2305ray&line_height=25&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFA500&hide=html,css&bg_color=FFFAF0&text_color=9ACD32&border_radius=3&border_color=561760&count_private=true" 
+             alt="Most Used Languages" height="150" width="100%">
+      </a>
+    </div>
   </div>
+</div>
 
-</div>
-</div>
 
 #
 
