@@ -27,7 +27,7 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2305ray&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=FFFAF0&title_color=FFA500&text_color=9ACD32&border_radius=3&border_color=36123c&icon_color=9ACD32&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
+  <a href="https://github.com/2305ray/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2305ray&line_height=25&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFA500&hide=html,css&bg_color=FFFAF0&text_color=9ACD32&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 
@@ -36,9 +36,20 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
 </div>
 
 <div align="center">
-  
 
-### ⚔ Skills
+
+  ## 🚀 Projetos em Destaque  
+
+<div align="center">
+  <a href="https://github.com/2305ray/FRONT-END-PROJECTS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2305ray&repo=NOME-DO-PROJETO&title_color=FFA500&bg_color=FFFAF0&text_color=9ACD32&border_radius=3&border_color=561760">
+  </a>
+  <a href="https://github.com/2305ray/NOME-DO-PROJETO2">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2305ray&repo=NOME-DO-PROJETO&title_color=FFA500&bg_color=FFFAF0&text_color=9ACD32&border_radius=3&border_color=561760">
+  </a>
+</div>
+
+### ⚔ Skills: Desenvolvimento web
 
 <table align="center">
   <tr>
@@ -76,6 +87,30 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
     </td>
   </tr>
 </table>
+
+
+### ⚔ Skills: Bioinformatic & Data Science
+<td align="center"><h4>Bioinformatics & Data Science</h4>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40">
+</td>
+
+## 🖥️ Projetos em Destaque  
+
+### 🌿 Projeto BioTech  
+📌 Uma aplicação que integra análise biológica com tecnologia.  
+🔗 [Repositório no GitHub](https://github.com/2305ray/NOME-DO-PROJETO)  
+
+<img src="https://raw.githubusercontent.com/2305ray/NOME-DO-PROJETO/main/assets/projeto-preview.png" width="500" alt="Preview do Projeto BioTech">
+
+---
+
+### 🌍 Monitoramento Ambiental  
+📌 Ferramenta para análise e visualização de dados ecológicos.  
+🔗 [Repositório no GitHub](https://github.com/2305ray/NOME-DO-PROJETO2)  
+
+<img src="https://raw.githubusercontent.com/2305ray/NOME-DO-PROJETO2/main/assets/monitoramento.png" width="500" alt="Preview do Monitoramento Ambiental">
 
 
 
