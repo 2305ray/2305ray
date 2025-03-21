@@ -124,4 +124,5 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5DEB3&center=true&vCenter=true&random=false&width=524&lines=+Obrigada+pela+atenção!+%CB%99%E1%B5%95%CB%99+" alt="Typing SVG">
   </a>
-</div>
+  
+<img src="https://github.com/2305ray/2305ray/blob/main/RAYSSA%20AVATAR-2.png">
