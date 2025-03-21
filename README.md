@@ -44,6 +44,7 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
   <a href="https://github.com/2305ray/FRONT-END-PROJECTS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2305ray&repo=FRONT-END-PROJECTS&title_color=FFA500&bg_color=FFFAF0&text_color=9ACD32&border_radius=3&border_color=561760">
   </a>
+  
   <a href="https://github.com/2305ray/BACK-END-PROJECTS">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2305ray&repo=BACK-END-PROJECTS&title_color=FFA500&bg_color=FFFAF0&text_color=9ACD32&border_radius=3&border_color=561760">
   </a>
