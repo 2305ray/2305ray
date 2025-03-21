@@ -88,12 +88,16 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
 <h4 align="center">Bioinformática e Data Science</h4>
 
 <div style="display: flex; justify-content: center;">
-  <table align="center" width="700">
+  <table align="center" width="600">
     <tr>
-      <td align="center" width="100%"><h4>Bioinformatics & Data Science</h4>
+      <td align="center" width="50%"><h4>Bioinformatics & Data Science</h4>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40">
+      </td>
+       <td align="center" width="50%"><h4>Data Analysis</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40">
       </td>
     </tr>
   </table>
@@ -101,7 +105,7 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
 
 
 ##
-
+<div align="center>
 ### ✨ Status do GitHub
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <div style="display: flex; flex-direction: column; align-items: center;">
@@ -112,6 +116,8 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
   </div>
 
 </div>
+</div>
+
 #
 
 <div align="center">
