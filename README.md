@@ -125,4 +125,7 @@ Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulha
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5DEB3&center=true&vCenter=true&random=false&width=524&lines=+Obrigada+pela+atenção!+%CB%99%E1%B5%95%CB%99+" alt="Typing SVG">
   </a>
   
-<img src="https://github.com/2305ray/2305ray/blob/main/RAYSSA AVATAR kawaii (1).png">
+
+  <img src="https://github.com/2305ray/2305ray/blob/main/RAYSSA%20AVATAR%20kawaii%20(1).png" width="500"  style="border-radius: 50%;">
+
+
