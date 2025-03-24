@@ -5,9 +5,11 @@
 </div>
 
     
-Sou Rayssa, uma paulista de 19 anos com uma paixão intensa por natureza, cultura e arte. Estou em busca de transformar essas paixões em projetos que possam causar um impacto positivo, unindo natureza, arte e tecnologia para beneficiar pessoas e ecossistemas.
+Olá! Me chamo Rayssa, tenho 19 anos e estou iniciando minha carreira em desenvolvimento. No momento, meu foco está em desenvolvimento web, mas no futuro pretendo migrar para bioinformática.
 
-Atualmente, estou iniciando minha jornada no desenvolvimento front-end, mergulhando no mundo do HTML, CSS e JavaScript. Estou animada para aprender e crescer na área, e mal posso esperar para ver onde essa aventura me levará!
+Este GitHub é totalmente voltado para aprendizado, registrando minhas aventuras e descobertas até encontrar meu verdadeiro caminho. Por isso, você pode encontrar por aqui um pouco de tudo: desenvolvimento web, Python, geoprocessamento, ReactJS e muito mais. Embora esses temas possam parecer desconectados, todos eles fazem parte do meu objetivo maior: gerar um impacto positivo no ecossistema e contribuir para o mundo biológico.
+
+Acredito que os meios são apenas ferramentas para alcançar um propósito maior. Então, se quiser acompanhar essa jornada e explorar essas aventuras, fique à vontade!  🌱 🌾 💚
 
 <div align="center">
     
