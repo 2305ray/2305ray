@@ -1,7 +1,8 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5DEB3&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá+bem-vindo(a)+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+
+  <div align="center">
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5DEB3&width=435&lines=ol%C3%A1+sejam+bem-vindos!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+)](https://git.io/typing-svg)
+
 </div>
 
     
@@ -124,10 +125,13 @@ Acredito que os meios são apenas ferramentas para alcançar um propósito maior
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5DEB3&center=true&vCenter=true&random=false&width=524&lines=+Obrigada+pela+atenção!+%CB%99%E1%B5%95%CB%99+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5DEB3&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o+%E2%8A%B9+" alt="Typing SVG">
   </a>
-  
+</div>
 
-  <img src="https://github.com/2305ray/2305ray/blob/main/RAYSSA%20AVATAR%20kawaii%20(1).png" width="500"  style="border-radius: 50%;">
+<br>
 
+<div align="center">
+  <img src="https://github.com/2305ray/2305ray/blob/main/RAYSSA%20AVATAR%20kawaii%20(1).png?raw=true" width="400" alt="Avatar">
+</div>
 
