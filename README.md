@@ -12,7 +12,7 @@
 
 </div>
 
-<img align="right" width="350" src="https://github.com/2305ray/2305ray/blob/main/avatar-illustration.jpeg?raw=true" alt="Avatar ilustrado">
+<img align="right" width="420" src="https://github.com/2305ray/2305ray/blob/main/avatar-illustration.jpeg?raw=true" alt="Avatar ilustrado">
 
 Olá! Me chamo Rayssa, tenho 19 anos e estou iniciando minha carreira em desenvolvimento. No momento, meu foco está em desenvolvimento web, mas no futuro pretendo migrar para bioinformática.
 
