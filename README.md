@@ -78,5 +78,5 @@ Acredito que os meios são apenas ferramentas para alcançar um propósito maior
 #
 
 <div align="center">
-  <img src="https://github.com/2305ray/2305ray/blob/main/birds.svg?raw=true" width="100%">
+  <img src="https://github.com/2305ray/2305ray/blob/main/plants.svg?raw=true" width="100%">
 </div>
