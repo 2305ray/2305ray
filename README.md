@@ -39,11 +39,11 @@ Acredito que os meios são apenas ferramentas para alcançar um propósito maior
 <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br><sub>Bootstrap</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="40"/><br><sub>GraphQL</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="40"/><br><sub>Prisma</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="40"/><br><sub>Entity Framework</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub>Git</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br><sub>VS Code</sub></td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="40"/><br><sub>Entity Framework</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub>Git</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br><sub>Postman</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub>SQL</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br><sub>PostgreSQL</sub></td>
