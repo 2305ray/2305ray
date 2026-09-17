@@ -35,14 +35,16 @@ Acredito que os meios são apenas ferramentas para alcançar um propósito maior
 <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="40"/><br><sub>C#</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br><sub>Tailwind</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br><sub>Next.js</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br><sub>Node.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="40"/><br><sub>NestJS</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br><sub>Bootstrap</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="40"/><br><sub>GraphQL</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="40"/><br><sub>Prisma</sub></td>
 </tr>
 <tr>
-
 <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="40"/><br><sub>Entity Framework</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="40"/><br><sub>ASP.NET</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub>Git</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br><sub>Postman</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub>SQL</sub></td>
