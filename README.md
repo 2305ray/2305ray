@@ -49,9 +49,9 @@ Acredito que os meios são apenas ferramentas para alcançar um propósito maior
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br><sub>PostgreSQL</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><sub>Python</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=r" width="40"/><br><sub>R</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="40"/><br><sub>Jupyter</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="40"/><br><sub>Pandas</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="40"/><br><sub>NumPy</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br><sub>Jupyter</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br><sub>Pandas</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br><sub>NumPy</sub></td>
 </tr>
 </table>
 
