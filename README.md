@@ -12,7 +12,7 @@
 
 </div>
 
-<img align="right" width="280" src="https://github.com/2305ray/2305ray/blob/main/avatar-illustration.jpeg?raw=true" alt="Avatar ilustrado">
+<img align="right" width="350" src="https://github.com/2305ray/2305ray/blob/main/avatar-illustration.jpeg?raw=true" alt="Avatar ilustrado">
 
 Olá! Me chamo Rayssa, tenho 19 anos e estou iniciando minha carreira em desenvolvimento. No momento, meu foco está em desenvolvimento web, mas no futuro pretendo migrar para bioinformática.
 
@@ -26,7 +26,34 @@ Acredito que os meios são apenas ferramentas para alcançar um propósito maior
 
 <h3> 🛠️ Tech Stack </h3>
 
-<img src="https://skillicons.dev/icons?i=html" width="36"/> <sub><b>HTML5</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=css" width="36"/> <sub><b>CSS3</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=js" width="36"/> <sub><b>JavaScript</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=ts" width="36"/> <sub><b>TypeScript</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=cs" width="36"/> <sub><b>C#</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=tailwind" width="36"/> <sub><b>Tailwind</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=react" width="36"/> <sub><b>React</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=nodejs" width="36"/> <sub><b>Node.js</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=bootstrap" width="36"/> <sub><b>Bootstrap</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=graphql" width="36"/> <sub><b>GraphQL</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=prisma" width="36"/> <sub><b>Prisma</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=dotnet" width="36"/> <sub><b>Entity Framework</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=git" width="36"/> <sub><b>Git</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=vscode" width="36"/> <sub><b>VS Code</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=postman" width="36"/> <sub><b>Postman</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="36"/> <sub><b>SQL</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=postgres" width="36"/> <sub><b>PostgreSQL</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=python" width="36"/> <sub><b>Python</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=r" width="36"/> <sub><b>R</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=jupyter" width="36"/> <sub><b>Jupyter</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=pandas" width="36"/> <sub><b>Pandas</b></sub> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=numpy" width="36"/> <sub><b>NumPy</b></sub>
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br><sub>HTML5</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br><sub>CSS3</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><sub>JavaScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br><sub>TypeScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="40"/><br><sub>C#</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br><sub>Tailwind</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br><sub>Node.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br><sub>Bootstrap</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="40"/><br><sub>GraphQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="40"/><br><sub>Prisma</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="40"/><br><sub>Entity Framework</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub>Git</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br><sub>VS Code</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br><sub>Postman</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub>SQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=r" width="40"/><br><sub>R</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="40"/><br><sub>Jupyter</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="40"/><br><sub>Pandas</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="40"/><br><sub>NumPy</sub></td>
+</tr>
+</table>
 
 ---
 
